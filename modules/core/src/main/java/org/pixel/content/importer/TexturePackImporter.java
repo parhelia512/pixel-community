@@ -8,7 +8,7 @@ package org.pixel.content.importer;
 import org.json.JSONObject;
 import org.pixel.commons.logger.Logger;
 import org.pixel.commons.logger.LoggerFactory;
-import org.pixel.commons.model.AttributeMap;
+import org.pixel.commons.AttributeMap;
 import org.pixel.commons.util.FileUtils;
 import org.pixel.commons.util.TextUtils;
 import org.pixel.content.*;

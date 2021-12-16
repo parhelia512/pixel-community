@@ -109,9 +109,9 @@ The framework functionality is divided into multiple modules which can be import
 
 ### Third-party libs ###
 
-    lwjgl 3.x       (runtime)
-    org.json 2021+  (runtime)
-    junit 5.x       (test)
+    lwjgl           (runtime)
+    org.json        (runtime)
+    junit5          (test)
    
 ### Setup Requirements ###
 
